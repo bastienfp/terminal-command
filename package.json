@@ -1,0 +1,22 @@
+{
+  "name": "my-first-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bastienfp/terminal-command.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bastienfp/terminal-command/issues"
+  },
+  "homepage": "https://github.com/bastienfp/terminal-command#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
